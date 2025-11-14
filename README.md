@@ -23,22 +23,22 @@ In this module the user can cancel their name which is registered for the Book.
 Star UML
 ### UML Diagrams:
 
-### USE CASE DIAGRAM:
+### 1.USE CASE DIAGRAM:
 <img width="387" height="400" alt="image" src="https://github.com/user-attachments/assets/7b34cdfe-1687-4a81-84e5-b36a8b13f2b2" />
 
-### CLASS DIAGRAM:
+### 2.CLASS DIAGRAM:
 <img width="308" height="253" alt="image" src="https://github.com/user-attachments/assets/5587a62f-2557-43a6-905d-8061c5a2144f" />
 
-### PACKAGE DIAGRAM:
+### 3.PACKAGE DIAGRAM:
 <img width="375" height="315" alt="image" src="https://github.com/user-attachments/assets/b54bc7e2-f680-453d-ba04-319646fb0fa7" />
 
-### SEQUENCE DIAGRAM:
+### 4.SEQUENCE DIAGRAM:
 <img width="438" height="346" alt="image" src="https://github.com/user-attachments/assets/e4f08ac1-862e-4bd3-aa27-aa52d4c2d41a" />
 
-### ACTIVITY DIAGRAM:
+### 5.ACTIVITY DIAGRAM:
 <img width="417" height="285" alt="image" src="https://github.com/user-attachments/assets/0ba7e73b-a981-4525-9c54-84ff58c011c8" />
 
-### COMMUNICATION DIAGRAM:
+### 6.COMMUNICATION DIAGRAM:
 
 <img width="422" height="301" alt="image" src="https://github.com/user-attachments/assets/33b682b2-53df-4a07-972e-ae7df6094e49" />
 
